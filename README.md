@@ -3,4 +3,4 @@ This is a simple text editor created in Java using Netbeans. It has the basic fu
 Created during the course Java applications.
 
 # How to use
-Just download the zip file and import it on netbeans.
+Just download the zip file and import it to netbeans.
